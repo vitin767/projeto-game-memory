@@ -1,0 +1,16 @@
+*
+{
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: auto;
+}
+body{
+   
+    text-size-adjust: 40px;
+    text-align: center;
+    scale: 4; 
+
+}
+.h1{
+    bottom: 0;
+}
